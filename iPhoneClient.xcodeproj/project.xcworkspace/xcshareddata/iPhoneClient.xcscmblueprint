@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B2FF202B3ACA63A46213397933C46D726CD26AFF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B2FF202B3ACA63A46213397933C46D726CD26AFF" : 0,
+    "3AC49AE8E109B85E88CD1C470E5D9729EEC173FF" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "028B72C3-D376-4918-9E55-E5CF2D4DE0BB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B2FF202B3ACA63A46213397933C46D726CD26AFF" : "jiaxiao\/",
+    "3AC49AE8E109B85E88CD1C470E5D9729EEC173FF" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "iPhoneClient",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "iPhoneClient.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/760766307\/iPhoneClient.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3AC49AE8E109B85E88CD1C470E5D9729EEC173FF"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/760766307\/jiaxiao.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B2FF202B3ACA63A46213397933C46D726CD26AFF"
+    }
+  ]
+}
